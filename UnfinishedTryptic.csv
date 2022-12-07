@@ -1,0 +1,57 @@
+﻿Accession,Description,Coverage [%],# Peptides,# PSMs,# Unique Peptides,# Protein Groups,# AAs,MW [kDa],calc. pI,Score Sequest HT: Sequest HT,# Peptides (by Search Engine): Sequest HT,Modifications
+Q29RW1,Myosin-4 OS=Rattus norvegicus OX=10116 GN=Myh4 PE=1 SV=1,21,35,65,21,1,1939,222.7,5.74,228.14,35,Oxidation [K366; K888; K1110]
+P02454,Collagen alpha-1(I) chain OS=Rattus norvegicus OX=10116 GN=Col1a1 PE=1 SV=5,30,25,61,24,1,1453,137.9,5.92,181,25,Oxidation [P302; P304; P331; P332; P335; P392; P398; P401; P416; P418; P485; P512; P518; P524; P533; P536; P547; P554; P556; P572; P574; K575; P590; P592; P593; P611; P613; P680; P682; P728; P763; P767; P860; P866; P877; P883; P884; P908; P913; P914; P962; P965; K973; P986; P988; P991; P992; P1034; P1037; P1040; P1109; P1112; P1115]
+P02466,Collagen alpha-2(I) chain OS=Rattus norvegicus OX=10116 GN=Col1a2 PE=1 SV=3,32,25,60,25,1,1372,129.5,9.33,154.26,25,Oxidation [P234; P279; P321; P327; P330; P390; P393; P398; P401; P425; P447; P450; P455; P459; P462; P477; P483; P501; P558; P564; P566; P582; P588; P623; P636; P675; P690; P692; P788; P789; P795; P806; P812; P813; P845; P846; P869; P876; P882; P902; P908; P909; P915; P921; P927; P987; P1077; P1079]
+P68136,"Actin, alpha skeletal muscle OS=Rattus norvegicus OX=10116 GN=Acta1 PE=1 SV=1",36,10,29,5,1,377,42,5.39,103.81,10,Oxidation [K52; P132; K361]
+P13941,Collagen alpha-1(III) chain OS=Rattus norvegicus OX=10116 GN=Col3a1 PE=2 SV=3,20,19,41,18,1,1463,138.9,6.52,102.6,19,Oxidation [P289; P295; P297; P358; P364; P399; P403; P406; P417; P424; P499; K502; P523; P529; P532; P574; P580; P598; P601; P604; P685; P691; P771; P775; P865; P868; P874; P906; P913; P916; P934; P939; P940; P943; P960; P961; P964; P966; P1000; P1003; P1009; P1075; P1077; P1147; P1158; P1161]
+P02563,Myosin-6 OS=Rattus norvegicus OX=10116 GN=Myh6 PE=1 SV=2,11,18,29,5,1,1938,223.4,5.74,90.48,18,Oxidation [P682; K1027; K1241]
+P02564,Myosin-7 OS=Rattus norvegicus OX=10116 GN=Myh7 PE=1 SV=2,10,16,27,5,1,1935,222.9,5.82,87.77,16,
+P12847,Myosin-3 OS=Rattus norvegicus OX=10116 GN=Myh3 PE=3 SV=1,7,13,24,2,1,1940,223.7,5.83,69.42,13,Oxidation [K214; K364]
+P62738,"Actin, aortic smooth muscle OS=Rattus norvegicus OX=10116 GN=Acta2 PE=2 SV=1",29,8,19,3,1,377,42,5.39,64.78,8,Oxidation [K52; P132]
+P63269,"Actin, gamma-enteric smooth muscle OS=Rattus norvegicus OX=10116 GN=Actg2 PE=2 SV=1",29,8,19,3,1,376,41.9,5.48,64.78,8,Oxidation [K51; P131]
+P68035,"Actin, alpha cardiac muscle 1 OS=Rattus norvegicus OX=10116 GN=Actc1 PE=2 SV=1",29,8,19,3,1,377,42,5.39,64.78,8,Oxidation [K52; P132]
+P60711,"Actin, cytoplasmic 1 OS=Rattus norvegicus OX=10116 GN=Actb PE=1 SV=1",23,7,16,2,1,375,41.7,5.48,44.08,7,Oxidation [K50; P130]
+P63259,"Actin, cytoplasmic 2 OS=Rattus norvegicus OX=10116 GN=Actg1 PE=1 SV=1",23,7,16,2,1,375,41.8,5.48,44.08,7,Oxidation [K50; P130]
+Q64578,Sarcoplasmic/endoplasmic reticulum calcium ATPase 1 OS=Rattus norvegicus OX=10116 GN=Atp2a1 PE=1 SV=1,7,5,6,5,1,994,109.3,5.22,16.23,5,Oxidation [K972]
+P05539,Collagen alpha-1(II) chain OS=Rattus norvegicus OX=10116 GN=Col2a1 PE=1 SV=2,6,4,5,2,1,1419,134.5,8.25,12.36,4,Oxidation [P531; P537; P762; P764; P770; P927; P930; K938; P1028; P1031]
+P19633,Calsequestrin-1 OS=Rattus norvegicus OX=10116 GN=Casq1 PE=1 SV=2,10,2,3,2,1,406,46.4,4.12,10.7,2,
+P58775,Tropomyosin beta chain OS=Rattus norvegicus OX=10116 GN=Tpm2 PE=1 SV=1,16,4,4,4,1,284,32.8,4.7,10.57,4,
+Q6IE24,Inactive ubiquitin carboxyl-terminal hydrolase 54 OS=Rattus norvegicus OX=10116 GN=Usp54 PE=1 SV=2,2,2,5,2,1,1588,176,7.64,10.51,2,Oxidation [P614; P621; P622; P1105; K1110]
+P02600,"Myosin light chain 1/3, skeletal muscle isoform OS=Rattus norvegicus OX=10116 GN=Myl1 PE=1 SV=2",13,3,3,3,1,189,20.7,5.03,8.7,3,
+P04692,Tropomyosin alpha-1 chain OS=Rattus norvegicus OX=10116 GN=Tpm1 PE=1 SV=3,10,3,3,3,1,284,32.7,4.74,8.24,3,
+Q62640,"Glutamate receptor ionotropic, delta-1 OS=Rattus norvegicus OX=10116 GN=Grid1 PE=1 SV=1",4,2,3,2,1,1009,112.1,6.7,7.32,2,Oxidation [K59; K370]
+Q4V7B0,Cilia- and flagella-associated protein 157 OS=Rattus norvegicus OX=10116 GN=Cfap157 PE=1 SV=2,3,2,3,2,1,542,62.8,9.16,7.12,2,
+Q6AXP3,Protein FAM227B OS=Rattus norvegicus OX=10116 GN=Fam227b PE=2 SV=2,6,2,3,2,1,573,67.3,8.76,6.95,2,Oxidation [P4; P6; K202]
+P70478,Adenomatous polyposis coli protein OS=Rattus norvegicus OX=10116 GN=Apc PE=1 SV=1,1,2,3,2,1,2842,310.3,7.37,6.89,2,
+P62024,Phosphatase and actin regulator 1 OS=Rattus norvegicus OX=10116 GN=Phactr1 PE=1 SV=1,6,2,3,2,1,580,66.2,7.09,6.08,2,Oxidation [P230; K417; K421]
+Q9JJ79,Cytoplasmic dynein 2 heavy chain 1 OS=Rattus norvegicus OX=10116 GN=Dync2h1 PE=1 SV=1,1,3,3,3,1,4306,491.9,6.65,5.76,3,Oxidation [P1316; K1319; K1324; K3144]
+Q9Z340,Partitioning defective 3 homolog OS=Rattus norvegicus OX=10116 GN=Pard3 PE=1 SV=1,2,2,3,2,1,1337,149.4,7.96,5.73,2,Oxidation [P411; P412]
+O08962,Potassium voltage-gated channel subfamily H member 2 OS=Rattus norvegicus OX=10116 GN=Kcnh2 PE=1 SV=1,4,2,2,2,1,1163,126.9,7.69,5.48,2,Oxidation [P301; K803; K819]
+F1LN46,"Carnitine O-palmitoyltransferase 1, brain isoform OS=Rattus norvegicus OX=10116 GN=Cpt1c PE=1 SV=1",6,2,2,2,1,801,90.1,7.37,5.42,2,Oxidation [P292; P300; P509; P511]
+Q99P39,"Cysteine desulfurase, mitochondrial OS=Rattus norvegicus OX=10116 GN=Nfs1 PE=2 SV=1",10,2,3,2,1,451,50,8.72,5.31,2,Oxidation [K233; P235; K242; K447]
+Q9QZR8,PDZ domain-containing protein 2 OS=Rattus norvegicus OX=10116 GN=Pdzd2 PE=1 SV=1,2,2,3,2,1,2766,293.7,8.15,5.28,2,Oxidation [P633; P1876; P1877]
+Q62682,Contactin-3 OS=Rattus norvegicus OX=10116 GN=Cntn3 PE=1 SV=1,4,2,2,2,1,1028,112.7,6.07,4.87,2,Oxidation [P903; P906; P907]
+O08873,MAP kinase-activating death domain protein OS=Rattus norvegicus OX=10116 GN=Madd PE=1 SV=1,2,2,2,2,1,1602,177.9,6.04,4.85,2,
+Q9JKS6,Protein piccolo OS=Rattus norvegicus OX=10116 GN=Pclo PE=1 SV=1,1,2,2,2,1,5085,552.4,6.54,4.7,2,Oxidation [P1157; P3592; P3594]
+Q5XID1,Anamorsin OS=Rattus norvegicus OX=10116 GN=Ciapin1 PE=1 SV=1,7,2,2,2,1,309,33,5.44,4.69,2,Oxidation [P98; K110; P225]
+P68907,E3 ubiquitin-protein ligase PDZRN3 OS=Rattus norvegicus OX=10116 GN=Pdzrn3 PE=1 SV=1,4,2,2,2,1,1062,119.2,6.05,4.66,2,Oxidation [P845]
+Q63638,Striated muscle-specific serine/threonine-protein kinase OS=Rattus norvegicus OX=10116 GN=Speg PE=1 SV=2,1,2,2,2,1,3259,353.9,8.28,4.64,2,Oxidation [P292; P2286; P2287; P2288]
+Q62812,Myosin-9 OS=Rattus norvegicus OX=10116 GN=Myh9 PE=1 SV=3,1,2,2,0,0,1961,226.2,5.6,4.59,2,
+Q99PF5,Far upstream element-binding protein 2 OS=Rattus norvegicus OX=10116 GN=Khsrp PE=1 SV=1,8,2,2,2,1,721,74.2,6.86,4.56,2,Oxidation [P59; P62; P673]
+P04797,Glyceraldehyde-3-phosphate dehydrogenase OS=Rattus norvegicus OX=10116 GN=Gapdh PE=1 SV=3,11,2,3,2,1,333,35.8,8.03,4.55,2,Oxidation [K105]
+Q9JJ25,Pyrin OS=Rattus norvegicus OX=10116 GN=Mefv PE=2 SV=2,4,2,2,2,1,747,83.7,7.96,4.55,2,Oxidation [P189]
+Q9JLT0,Myosin-10 OS=Rattus norvegicus OX=10116 GN=Myh10 PE=1 SV=1,1,2,2,0,0,1976,228.8,5.6,4.53,2,
+Q3KR92,Protein-tyrosine sulfotransferase 1 OS=Rattus norvegicus OX=10116 GN=Tpst1 PE=1 SV=1,9,2,2,2,1,370,42.1,9.19,4.4,2,
+F1M775,Protein diaphanous homolog 1 OS=Rattus norvegicus OX=10116 GN=Diaph1 PE=1 SV=3,2,2,2,2,1,1265,140.3,5.54,4.23,2,Oxidation [K1056; K1057]
+M0R8U1,Dynein axonemal heavy chain 5 (Fragment) OS=Rattus norvegicus OX=10116 GN=Dnah5 PE=1 SV=1,1,2,2,2,1,3470,395.7,6.06,4.21,2,Oxidation [P730]
+Q62717,Calcium-dependent secretion activator 1 OS=Rattus norvegicus OX=10116 GN=Cadps PE=1 SV=1,3,2,2,2,1,1289,146.2,5.82,4.21,2,Oxidation [P413]
+D3Z9Z9,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A containing DEAD/H box 1 OS=Rattus norvegicus OX=10116 GN=Smarcad1 PE=1 SV=1,2,2,2,2,1,1024,116.7,5.57,4.18,2,Oxidation [K323]
+Q63003,5E5 antigen OS=Rattus norvegicus OX=10116 PE=2 SV=1,3,2,2,2,1,825,86.8,9.63,4.09,2,
+Q62769,Protein unc-13 homolog B OS=Rattus norvegicus OX=10116 GN=Unc13b PE=1 SV=2,2,2,2,2,1,1622,183.9,6.1,4.04,2,Oxidation [P1141; P1143; K1217]
+Q99PJ7,Zinc finger protein 689 OS=Rattus norvegicus OX=10116 GN=Znf689 PE=2 SV=1,4,2,2,2,1,500,57.2,9.69,3.95,2,Oxidation [P121; P428; K436]
+Q4KM49,"Tyrosine--tRNA ligase, cytoplasmic OS=Rattus norvegicus OX=10116 GN=Yars1 PE=2 SV=3",6,2,2,2,1,528,59.1,7.01,3.89,2,Oxidation [K412]
+P13286,"Phosphorylase b kinase gamma catalytic chain, skeletal muscle/heart isoform OS=Rattus norvegicus OX=10116 GN=Phkg1 PE=2 SV=2",7,2,2,2,1,388,45,6.55,3.82,2,
+P08649,Complement C4 OS=Rattus norvegicus OX=10116 GN=C4 PE=1 SV=3,2,2,2,2,1,1737,192,7.33,3.78,2,Oxidation [P65]
+Q63624,"Splicing factor, arginine/serine-rich 19 OS=Rattus norvegicus OX=10116 GN=Scaf1 PE=1 SV=2",2,2,4,2,1,1258,133.8,9.32,3.61,2,Oxidation [P140; P142; P1245; P1246]
+Q5XIJ4,Protein FAM210A OS=Rattus norvegicus OX=10116 GN=Fam210a PE=2 SV=1,6,2,2,2,1,273,31.5,9.82,3.58,2,Oxidation [K252; K258]
+Q6F6B3,Protein TANC1 OS=Rattus norvegicus OX=10116 GN=Tanc1 PE=1 SV=1,1,2,2,2,1,1849,200.4,8.28,3.2,2,Oxidation [P1391; K1397]
